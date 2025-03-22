@@ -1,6 +1,6 @@
 ### Report on User and Group Management on Azure VM
 
-he steps I took to manage users and groups on an Azure Virtual Machine. Below is a detailed account of the process:
+The steps I took to manage users and groups on an Azure Virtual Machine. Below is a detailed account of the process:
 
 1. **Connecting to the Azure VM**:
    First, I opened PowerShell and connected to the Azure VM using SSH. I made sure I had my key file ready and established the connection with the following command:
