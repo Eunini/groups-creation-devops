@@ -72,4 +72,4 @@ The steps I took to manage users and groups on an Azure Virtual Machine. Below i
 ### Summary
 By following these steps, I successfully created groups and users on the Azure VM, assigned the users to their respective groups, and set passwords for them. This organization helps in managing permissions and access control based on the roles and departments of the users.
 
-image of output is in outcome folders in this repo
+image of output is in this folders in this repo
